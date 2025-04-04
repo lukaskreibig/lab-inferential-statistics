@@ -13,6 +13,3 @@
 
 2. If you finished the previous question, please go through the code for `principal_component_analysis_example` provided in the `files_for_lab` folder .
 
-
-
-
